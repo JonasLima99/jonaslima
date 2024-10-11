@@ -21,10 +21,11 @@ a {
 }
 
 img {
+    width: 100px;
+    max-width: 400px;
     aspect-ratio: 1/1;
-    width: 150px;
-    height: 200px;
-    border-radius: 60%;
+    object-fit: cover;
+    border-radius: 100%;
     border: 5px solid rgb(87, 85, 85);
 }
 
