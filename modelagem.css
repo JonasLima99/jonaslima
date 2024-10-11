@@ -16,7 +16,7 @@ ul {
 }
 
 a {
-    color: rgb(0, 0, 0);
+    color: rgb(156, 149, 149);
     text-decoration: none;
 }
 
@@ -24,7 +24,7 @@ img {
     width: 150px;
     height: 200px;
     border-radius: 50%;
-    border: 5px solid rgb(0, 0, 0);
+    border: 5px solid rgb(87, 85, 85);
 }
 
 .center {
